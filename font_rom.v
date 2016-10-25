@@ -1,23 +1,5 @@
 `timescale 1ns / 10ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    11:53:09 08/20/2016 
-// Design Name: 
-// Module Name:    font_rom 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module font_rom(
 	input wire clk,
 	input wire [10:0] addr,
